@@ -51,7 +51,8 @@ RUN pip install \
         ipywidgets \
         numpy \
         pandas \
-        openpyxl
+        openpyxl \
+        outscraper
 
 #//////////////////////////////////////// KE: to disable mojo
 # A random default token
